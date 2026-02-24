@@ -65,10 +65,13 @@ plt.show()
 ```
 
 ## Output:
+<img width="1280" height="661" alt="Screenshot 2026-02-24 230220" src="https://github.com/user-attachments/assets/08355124-a6c2-487b-aadb-cf02f92bc1ff" />
+<img width="1256" height="782" alt="Screenshot 2026-02-24 230238" src="https://github.com/user-attachments/assets/6bfe5a20-5e0b-468b-8afd-041b9ea4ae3d" />
+
 <img width="1372" height="752" alt="Screenshot 2026-02-12 103038" src="https://github.com/user-attachments/assets/3ea927f9-8f79-45d4-8fa1-9b9ecacceb6f" />
 <img width="1348" height="895" alt="Screenshot 2026-02-12 103055" src="https://github.com/user-attachments/assets/bbda3c28-17b3-40e2-8f90-0f9e399f5983" />
 
-![simple linear regression model for predicting the marks scored](sam.png)
+
 
 
 ## Result:
